@@ -1,3 +1,7 @@
+# Ciphers
+
+It was a school project. I have to create a program which will decrypt and encrypt given text in different ciphers.
+
 Homework assignment no. 1, Simple Ciphers
 ====================================
 
