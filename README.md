@@ -1,6 +1,8 @@
 # Ciphers
 
-It was a school project. I have to create a program which will decrypt and encrypt given text in different ciphers.
+It was a school project. I had to create a program that encrypts and decrypts text using different ciphers.
+
+No AI tools were used during the development of this project.
 
 Homework assignment no. 1, Simple Ciphers
 ====================================
@@ -145,3 +147,4 @@ The procedure to submit your solution may differ based on your seminar group. Ho
 ## Implementation
 Generally speaking there are no mandatory requirements on the structure of your code as long as the command line interface of ```Appplication``` class works correctly.
 The use of classes, enums and interfaces, provided as part of the project skeleton is up to your decision.
+
